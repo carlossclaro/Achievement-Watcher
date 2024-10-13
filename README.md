@@ -88,7 +88,7 @@ Use `buildme.cmd` in the root folder to build.
 
 ### Notes: 
 
-+ Most of the native code is now shipped as prebuilt binaries. If you want to compile them yourself I invit you to check out their corresponding repo.<br/>
++ Most of the native code is now shipped as prebuilt binaries. If you want to compile them yourself I invite you to check out their corresponding repo.<br/>
 NB: Golang cgo requires a gcc compiler installed and set in PATH (recommended : http://tdm-gcc.tdragon.net/download).
 
 + Innosetup is expected to be installed in `C:\Program Files (x86)\Inno Setup 5` if that is not the case then update `buildme.cmd` with the correct path.
